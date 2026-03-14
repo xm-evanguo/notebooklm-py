@@ -387,6 +387,10 @@ notebooklm source add-research "topic" --mode deep --import-all
 - `--from web`: Search the web (default)
 - `--from drive`: Search Google Drive
 
+## Related Workflow Helper
+
+- YouTube transcript extraction now lives in `/home/evan/my_skills/nanoclaw-workflows/workflows/notebooklm/youtube_transcript.py`.
+
 ## Output Style
 
 **Progress updates:** Brief status for each step
